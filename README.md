@@ -1,2 +1,2 @@
 HI GUYS ENJOY OUR FAVOURITE TIC-TAC-TOE GAME I BUILT USING HTML CSS AND JAVASCRIPT!
-https://saahibah-baig.github.io/TIC-TAC-TOE/
+https://Git-Coder3112.github.io/TIC-TAC-TOE/
